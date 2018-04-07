@@ -1,0 +1,36 @@
+#footerwrap {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background: #8b07a2;
+}
+
+#footerwrap p {
+	color: white;
+}
+#footerwrap p a{
+    color: white;
+    
+}
+#footerwrap p a:hover{
+    color: #c6d1cf;
+    text-decoration: none;
+    
+}
+#footerwrap h4 {
+	color: white;
+}
+
+#footerwrap i {
+	font-size: 30px;
+	color: white;
+	padding-right: 25px;
+}
+
+#footerwrap i:hover {
+	color: #c6d1cf;
+}
+
+.hline-w {
+	border-bottom: 2px solid #ffffff;
+	margin-bottom: 25px;
+}
